@@ -1,0 +1,17 @@
+10 - 5
+add 10 and 5
+divide 10 by 2
+move .sphere to 10, 25
+
+set .name to 15
+
+define .n1 - .n2
+    native
+
+define .n1 ^ .n2
+    native
+
+define distance .x1,.y1 and .x2,.y2
+    sqrt of (((.x2-.x1)^2) + ((.y2 - .y1)^2))
+
+    sqrt((x2-x1)^2 + (y2-y1)^2)

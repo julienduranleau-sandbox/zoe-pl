@@ -1,0 +1,4 @@
+set .name to "Julien"
+set .age to 30
+
+define .a and .b
